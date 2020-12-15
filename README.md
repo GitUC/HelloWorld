@@ -7,3 +7,4 @@ You can also to test
 - Azure Function
 - Azure Logic App
 - Azure Cosmos database
+- Azure Test
